@@ -11,6 +11,18 @@ Ola, seja bem vindo! 👋
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbaldodev&layout=compact&langs_count=16&theme=dracula"/>
   </a>
 </div>
+<div style=in-line>
+<h2>Linguagens que possuo conhecimento:</h2>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40px">
+</div>
+
+
+          
+          
+          
+          
 
 
 
