@@ -4,6 +4,7 @@ Olá, seja bem vindo! 👋
 - 🌱 Estou estudando JavaScript e CSS.
 - 📫 Caso queira me contatar, me envie um email: giibola21@gmail.com
 - 😄 Pronomes: ele/dele.
+- 📚 Estudante Da Ebac (Engenheiro FrontEnd) e da Anhguera Educacional(Analise e desenvolvimento de sistemas)
 
 <div align="center">
   <a href="https://github.com/gbaldodev">
