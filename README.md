@@ -20,6 +20,7 @@ Ola, seja bem vindo! 👋
 
 ![Snake animation](https://github.com/gbaldodev/gbaldodev/blob/output/github-contribution-grid-snake.svg)
 
+
           
           
           
