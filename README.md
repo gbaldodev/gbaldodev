@@ -21,4 +21,4 @@ Olá, seja bem vindo! 👋
 </div>
 -------------------------------------------------------------------------
 
-![Snake animation](https://github.com/gbaldodev/gbaldodev/raw/output/github-contribution-grid-snake.svg)
+
