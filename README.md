@@ -17,8 +17,7 @@ Ola, seja bem vindo! 👋
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40px">
 </div>
-
-![Snake animation](https://github.com/gbaldodev/gbaldodev/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/gbaldodev/gbaldodev/raw/output/github-contribution-grid-snake.svg)
 
 
           
