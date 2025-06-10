@@ -15,7 +15,10 @@
 
 - 💻 Procurando emprego na área Front-End
 </p>
----- - - - - - -- - - - - - -- - - - - - -- - - - - - -- - - - - - -- - - - - - -- - - - - - -- - - - - - -- - - - - - -- - - - - - -- - - - - - -- - - - - - -- - - - - - -- - 
+
+---
+
+
 <h3 align="left">Linguagens que possuo conhecimento:</h3>
 <p align="left"> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
