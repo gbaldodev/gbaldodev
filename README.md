@@ -34,11 +34,3 @@
 
 ---- - - - - - -- - - - - - -- - - - - - -- - - - - - -- - - - - - -- - - - - - -- - - - - - -- - - - - - -- - - - - - -- - - - - - -- - - - - - -- - - - - - -- - - - - - -- - - - - - 
 <h3 align="center">⭐ GitHub Stats ⭐</h3>
-
-<p>
-  <img align="left" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs?username=gbaldodev&show_icons=true&locale=en&layout=compact" alt="gbaldodev" />
-</p>
-
-<p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gbaldodev&show_icons=true&locale=en" alt="gbaldodev" />
-</p>
