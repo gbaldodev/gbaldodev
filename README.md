@@ -13,7 +13,7 @@
 
 - 📚 Estudante da EBAC e da Anhanguera Educacional.
 
-- 💻 Procurando emprego na área Front-End(Jscrip/MySql)
+- 💻 Procurando emprego na área Front-End(Jscript)
 </p>
 
 ---
