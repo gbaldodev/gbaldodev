@@ -11,7 +11,7 @@
 
 - 🤷‍♂️ Pronomes: Ele / Dele.
 
-- 📚 Estudante da EBAC e da Anhanguera Educacional.
+- 📚 Estudante da EBAC e da Univesp(Bacharelado Em Inteligência Artificial), Formado em Analise e desenvolvimento de sistemas pela Anhanguera.
 
 - 💻 Procurando emprego na área Front-End(Jscript)
 </p>
